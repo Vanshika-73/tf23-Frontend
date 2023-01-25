@@ -1,0 +1,919 @@
+.vectorLogoIcon {
+    position: absolute;
+    top: 0;
+    left: 333px;
+    width: 1213px;
+    height: 866px;
+    opacity: 0.13;
+  }
+  .groupChild {
+    top: 993.83px;
+    left: 2130.42px;
+    width: 1589.1px;
+    height: 957.18px;
+    opacity: 0.8;
+  }
+  .groupChild,
+  .groupInner,
+  .groupItem {
+    position: absolute;
+    display: none;
+  }
+  .groupItem {
+    top: 2273.05px;
+    left: 1875px;
+    width: 1264.27px;
+    height: 685.65px;
+    opacity: 0.8;
+  }
+  .groupInner {
+    top: 987px;
+    left: -809px;
+    width: 3615px;
+    height: 3753px;
+  }
+  .rectangleDiv {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 5px;
+    background-color: #003805;
+    width: 87px;
+    height: 135px;
+  }
+  .faqs {
+    position: absolute;
+    top: 107px;
+    left: 12px;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+  }
+  .rectangleParent {
+    position: absolute;
+    top: 3488px;
+    left: 1997px;
+    width: 87px;
+    height: 135px;
+    display: none;
+  }
+  .groupIcon,
+  .vectorLogoParent {
+    position: absolute;
+    top: 1187px;
+    left: 0;
+    width: 2231.57px;
+    height: 814.22px;
+  }
+  .vectorLogoParent {
+    top: 0;
+    height: 2001.22px;
+  }
+  .groupChild1,
+  .vectorLogoIcon1 {
+    position: absolute;
+    top: 1602px;
+    left: 1048px;
+    width: 138.67px;
+    height: 99px;
+  }
+  .groupChild1 {
+    top: 1098px;
+    left: 176px;
+    background-color: rgba(3, 15, 5, 0.3);
+    width: 1920px;
+    height: 991px;
+  }
+  .groupParent {
+    position: absolute;
+    top: -1098px;
+    left: -180px;
+    filter: blur(10px);
+    width: 2231.57px;
+    height: 2089px;
+  }
+  .aboutUsFullViewInner {
+    position: absolute;
+    top: -28px;
+    left: -15px;
+    background-color: #000;
+    width: 1920px;
+    height: 2628px;
+    overflow: hidden;
+    display: none;
+  }
+  .aboutUsFullViewChild,
+  .headerChild {
+    position: absolute;
+    top: 422.32px;
+    left: 0;
+    width: 2627px;
+    height: 5372.36px;
+  }
+  .headerChild {
+    top: 0;
+    background-color: #050505;
+    width: 1957px;
+    height: 112px;
+  }
+  .slietLongowalsAnnual {
+    position: absolute;
+    top: 27.03px;
+    left: 0.66px;
+    display: inline-block;
+    font-weight: 700;
+    width: 252.34px;
+    height: 18.72px;
+  }
+  .span {
+    color: #00ff47;
+  }
+  .techfest22 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: 30.12px;
+    display: inline-block;
+    font-weight: 700;
+    font-family: var(--font-vipnagorgialla);
+    width: 253px;
+    height: 32.96px;
+    color: var(--color-gray-100);
+  }
+  .slietLongowalsAnnualTechniParent {
+    position: absolute;
+    top: 11.94px;
+    left: 0;
+    width: 253px;
+    height: 45.76px;
+    font-size: 13.81px;
+    color: #effff4;
+  }
+  .caProgram {
+    position: absolute;
+    top: 16px;
+    left: 1391px;
+  }
+  .keyboardArrowDownIcon {
+    position: absolute;
+    top: 6px;
+    left: 92px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .domains,
+  .domains1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  .domains {
+    top: 18px;
+    left: 1185px;
+    width: 116px;
+    height: 35px;
+  }
+  .aboutUs,
+  .signIn1,
+  .workshops {
+    position: absolute;
+    top: 18px;
+    left: 977px;
+  }
+  .aboutUs,
+  .signIn1 {
+    left: 790px;
+  }
+  .signIn1 {
+    top: 11px;
+    left: 53px;
+  }
+  .signIn,
+  .signInChild {
+    position: absolute;
+    top: 0;
+    width: 186px;
+    height: 67px;
+  }
+  .signInChild {
+    cursor: pointer;
+    border: 1px solid var(--white);
+    padding: 0;
+    background-color: transparent;
+    left: 0;
+    border-radius: 10px;
+    box-sizing: border-box;
+  }
+  .signIn {
+    left: 1609px;
+    font-size: var(--font-size-xs);
+  }
+  .lineDiv {
+    position: absolute;
+    top: 60px;
+    left: 1445.5px;
+    border-top: 3px solid #1e4219;
+    box-sizing: border-box;
+    width: 127px;
+    height: 3px;
+    display: none;
+  }
+  .groupContainer {
+    position: absolute;
+    top: 22px;
+    left: 106px;
+    width: 1795px;
+    height: 67px;
+  }
+  .header,
+  .icon {
+    position: absolute;
+    top: 0;
+  }
+  .header {
+    left: -37px;
+    width: 1957px;
+    height: 112px;
+    font-size: var(--font-size-2xs);
+  }
+  .icon {
+    left: 0;
+    width: 2586px;
+    height: 7728px;
+    object-fit: cover;
+    opacity: 0.2;
+  }
+  .groupChild2 {
+    position: absolute;
+    top: 13px;
+    left: -1px;
+    border-right: 2px solid var(--white);
+    box-sizing: border-box;
+    width: 2px;
+    height: 300px;
+  }
+  .lineParent,
+  .whiteSliet1 {
+    position: absolute;
+    top: 0;
+    height: 326px;
+  }
+  .whiteSliet1 {
+    left: 92px;
+    width: 326px;
+    object-fit: cover;
+  }
+  .lineParent {
+    left: 457px;
+    width: 418px;
+  }
+  .hero,
+  .subtitle {
+    position: absolute;
+    width: 1008px;
+  }
+  .subtitle {
+    top: 530px;
+    left: 0;
+    line-height: 39px;
+    display: inline-block;
+    height: 166px;
+  }
+  .hero {
+    top: 0;
+    left: 387px;
+    height: 696px;
+    font-size: var(--font-size-base);
+  }
+  .whatsappImage20230111At1 {
+    position: absolute;
+    top: 857px;
+    left: 62px;
+    border-radius: 74px;
+    width: 1335px;
+    height: 1231px;
+    object-fit: cover;
+  }
+  .aboutSlietChild {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 82px;
+    background: linear-gradient(143.37deg, #1f3800, rgba(0, 0, 0, 0.48));
+    backdrop-filter: blur(17px);
+    width: 1333px;
+    height: 1234px;
+  }
+  .santLongowalInstitute {
+    margin-block-start: 0;
+    margin-block-end: 0;
+  }
+  .subtitle1 {
+    position: absolute;
+    top: 146px;
+    left: 0;
+    white-space: pre-wrap;
+    display: inline-block;
+    width: 1129px;
+    height: 616px;
+  }
+  .sliet {
+    color: #57fa69;
+  }
+  .aboutSliet1 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: var(--font-size-2xl);
+    font-family: var(--font-monument-extended);
+    text-align: left;
+    display: inline-block;
+    width: 655px;
+    height: 146px;
+  }
+  .groupChild3 {
+    position: absolute;
+    top: 103.27px;
+    left: -0.5px;
+    border-top: 1px solid var(--white);
+    box-sizing: border-box;
+    width: 405px;
+    height: 1px;
+  }
+  .aboutSliet,
+  .subtitleParent {
+    position: absolute;
+    top: 179px;
+    left: 101px;
+    width: 1129px;
+    height: 762px;
+  }
+  .aboutSliet {
+    top: 851px;
+    left: 62px;
+    width: 1333px;
+    height: 1234px;
+    text-align: justify;
+    font-size: 42px;
+  }
+  .techfest221 {
+    position: absolute;
+    top: 118px;
+    left: 0;
+    font-weight: 700;
+  }
+  .subtitle2 {
+    position: absolute;
+    top: 51px;
+    left: 5px;
+    line-height: 39px;
+    display: inline-block;
+    width: 538px;
+    height: 89px;
+  }
+  .subtitleGroup,
+  .theUltimateLeap {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: var(--font-size-sm);
+  }
+  .subtitleGroup {
+    top: 192px;
+    width: 543px;
+    height: 140px;
+    font-size: var(--font-size-xs);
+    font-family: var(--font-product-sans);
+  }
+  .groupChild4 {
+    position: absolute;
+    top: 0;
+    left: 586px;
+    width: 615.75px;
+    height: 636.31px;
+  }
+  .techfest22Parent {
+    position: absolute;
+    top: 547px;
+    left: 52px;
+    width: 1102px;
+    height: 478.31px;
+  }
+  .techfest23 {
+    position: absolute;
+    top: 126px;
+    left: 608px;
+    font-weight: 700;
+  }
+  .subtitle3 {
+    position: absolute;
+    top: 51px;
+    left: 5px;
+    line-height: 39px;
+    display: inline-block;
+    width: 574px;
+    height: 89px;
+  }
+  .innovationInAgriculture {
+    position: absolute;
+    top: 0;
+    left: 0;
+    font-size: var(--font-size-base);
+  }
+  .subtitleContainer {
+    position: absolute;
+    top: 200px;
+    left: 608px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 579px;
+    height: 140px;
+    font-size: var(--font-size-sm);
+    font-family: var(--font-product-sans);
+  }
+  .groupChild5 {
+    position: absolute;
+    top: -67.29px;
+    left: -155.1px;
+    width: 691.67px;
+    height: 703.59px;
+  }
+  .techfest23Parent {
+    position: absolute;
+    top: 0;
+    left: 52px;
+    width: 1187px;
+    height: 478.31px;
+  }
+  .techfest21 {
+    position: absolute;
+    top: 135px;
+    left: 682px;
+    font-weight: 700;
+    -webkit-text-stroke: 1px rgba(0, 0, 0, 0.2);
+  }
+  .weEnsuredThat {
+    margin: 0;
+  }
+  .subtitle4 {
+    position: absolute;
+    top: 51px;
+    left: 5px;
+    line-height: 39px;
+    display: inline-block;
+    width: 499px;
+    height: 135px;
+  }
+  .groupDiv {
+    position: absolute;
+    top: 205px;
+    left: 682px;
+    width: 504px;
+    height: 186px;
+    font-size: var(--font-size-xs);
+    font-family: var(--font-product-sans);
+  }
+  .groupChild6 {
+    position: absolute;
+    top: 0;
+    left: -70px;
+    width: 596.2px;
+    height: 611.79px;
+    object-fit: cover;
+  }
+  .techfest21Parent {
+    position: absolute;
+    top: 1094px;
+    left: 0;
+    width: 1186px;
+    height: 453.79px;
+  }
+  .techfest20 {
+    position: absolute;
+    top: 140px;
+    left: 0;
+    font-weight: 700;
+    -webkit-text-stroke: 1px rgba(0, 0, 0, 0.2);
+  }
+  .subtitle5 {
+    position: absolute;
+    top: 51px;
+    left: 5px;
+    line-height: 39px;
+    display: inline-block;
+    width: 499px;
+    height: 89px;
+  }
+  .subtitleParent1 {
+    position: absolute;
+    top: 210px;
+    left: 0;
+    width: 504px;
+    height: 140px;
+    font-size: var(--font-size-xs);
+    font-family: var(--font-product-sans);
+  }
+  .groupChild7 {
+    position: absolute;
+    top: -0.5px;
+    left: 626px;
+    width: 596.2px;
+    height: 583.29px;
+    object-fit: cover;
+  }
+  .techfest20Parent {
+    position: absolute;
+    top: 1616px;
+    left: 22px;
+    width: 1112px;
+    height: 424.79px;
+  }
+  .groupChild8,
+  .subtitleParent2 {
+    position: absolute;
+    top: 197px;
+    left: 629px;
+    width: 504px;
+    height: 140px;
+  }
+  .groupChild8 {
+    top: 0;
+    left: -131px;
+    width: 596.2px;
+    height: 603.79px;
+  }
+  .techfest19 {
+    position: absolute;
+    top: 138px;
+    left: 629px;
+    font-size: var(--font-size-lg);
+    font-weight: 700;
+    font-family: var(--font-vipnagorgialla);
+    -webkit-text-stroke: 1px rgba(0, 0, 0, 0.2);
+  }
+  .groupParent1,
+  .timeline {
+    position: absolute;
+    top: 2109px;
+    left: 27px;
+    width: 1133px;
+    height: 445.79px;
+    font-size: var(--font-size-xs);
+    font-family: var(--font-product-sans);
+  }
+  .timeline {
+    top: 2274px;
+    left: 303px;
+    width: 1239px;
+    height: 2554.79px;
+    text-align: left;
+    font-size: var(--font-size-lg);
+    font-family: var(--font-vipnagorgialla);
+  }
+  .gallery1 {
+    position: absolute;
+    top: 0;
+    left: 667px;
+    display: inline-block;
+    width: 445px;
+    height: 65px;
+  }
+  .gallery,
+  .galleryChild {
+    position: absolute;
+    top: 135px;
+    left: -14px;
+    width: 1804px;
+    height: 380px;
+  }
+  .gallery {
+    top: 5747px;
+    left: 13px;
+    width: 1776px;
+    height: 515px;
+    color: var(--color-green-100);
+    font-family: var(--font-monument-extended);
+  }
+  .ourPreviousSponsors {
+    position: absolute;
+    top: 0;
+    left: 247px;
+  }
+  .sponsors,
+  .sponsorsChild {
+    position: absolute;
+    top: 154px;
+    left: 0;
+    width: 1776px;
+    height: 380px;
+  }
+  .sponsors {
+    top: 6493px;
+    height: 534px;
+    color: var(--color-green-100);
+    font-family: var(--font-monument-extended);
+  }
+  .heroParent,
+  .start,
+  .startChild {
+    position: absolute;
+    width: 680px;
+    height: 426px;
+  }
+  .startChild {
+    border: 0;
+    background-color: #b6b6b6;
+    top: 0;
+    left: 0;
+  }
+  .heroParent,
+  .start {
+    top: 5133px;
+    left: 563px;
+  }
+  .heroParent {
+    top: 0;
+    left: 0;
+    width: 1789px;
+    height: 7027px;
+  }
+  .ourRootsGo {
+    position: absolute;
+    top: 5010px;
+    left: 202px;
+    font-size: var(--font-size-lg);
+    text-align: left;
+  }
+  .asset83x1 {
+    position: absolute;
+    top: -53.29px;
+    left: 215.9px;
+    width: 691.67px;
+    height: 587.67px;
+    object-fit: cover;
+  }
+  .frameDiv {
+    position: absolute;
+    top: 216px;
+    left: 65px;
+    box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25), 0 4px 4px rgba(0, 0, 0, 0.25);
+    width: 1789px;
+    height: 655px;
+    text-align: center;
+    font-size: var(--font-size-2xl);
+    font-family: var(--font-product-sans);
+  }
+  .asset24x2 {
+    position: absolute;
+    top: 589px;
+    left: 663px;
+    width: 595px;
+    height: 116px;
+    object-fit: cover;
+  }
+  .vectorIcon,
+  .vectorIcon1 {
+    position: absolute;
+    top: 0;
+    left: 757px;
+    width: 1163px;
+    height: 2202px;
+  }
+  .vectorIcon1 {
+    top: 3592px;
+    left: 872px;
+    width: 523px;
+    height: 492px;
+    display: none;
+  }
+  .icon1,
+  .vectorIcon2,
+  .vectorIcon3 {
+    position: absolute;
+    top: 3474px;
+    left: 562px;
+    width: 1358px;
+    height: 1541px;
+  }
+  .icon1,
+  .vectorIcon3 {
+    top: 4039px;
+    left: 0;
+    width: 1364px;
+  }
+  .icon1 {
+    height: 0.47%;
+    width: 1.3%;
+    top: 82.02%;
+    right: 94.64%;
+    bottom: 17.51%;
+    left: 4.06%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+  }
+  .groupChild9,
+  .statsSecIcon {
+    position: absolute;
+    top: 957px;
+    left: 164px;
+    width: 1630px;
+    height: 12px;
+  }
+  .groupChild9 {
+    top: 1271px;
+    left: 0;
+    border-radius: 90px;
+    background: linear-gradient(143.37deg, #1f3800, rgba(0, 0, 0, 0.48));
+    backdrop-filter: blur(17px);
+    width: 1271px;
+    height: 612px;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+  }
+  .image16Icon {
+    position: absolute;
+    top: 0;
+    left: 97.9px;
+    border-radius: var(--br-md);
+    width: 70.55px;
+    height: 70.55px;
+    object-fit: cover;
+  }
+  .div {
+    position: absolute;
+    top: 91.76px;
+    left: 62.09px;
+    text-transform: uppercase;
+  }
+  .institutesParticipateEvery {
+    position: absolute;
+    top: 184.89px;
+    left: 0;
+    font-size: var(--font-size-xs);
+    text-transform: capitalize;
+    font-family: var(--font-product-sans);
+    display: inline-block;
+    width: 285.04px;
+    height: 79.96px;
+  }
+  .image16Parent {
+    top: 129px;
+    left: 76.1px;
+    width: 285.04px;
+    height: 264.86px;
+  }
+  .image16Parent,
+  .image17Icon,
+  .k {
+    position: absolute;
+  }
+  .image17Icon {
+    top: 0;
+    left: 83.14px;
+    border-radius: var(--br-md);
+    width: 96.9px;
+    height: 70.55px;
+    object-fit: cover;
+  }
+  .k {
+    top: 97.51px;
+    left: 21.64px;
+    text-transform: uppercase;
+  }
+  .footfallDuringTechfestContainer {
+    position: absolute;
+    top: 196.29px;
+    left: 0;
+    font-size: var(--font-size-xs);
+    text-transform: capitalize;
+    font-family: var(--font-product-sans);
+    display: inline-block;
+    width: 285.04px;
+    height: 79.96px;
+  }
+  .image17Parent {
+    top: 524px;
+    left: 79.86px;
+    width: 285.04px;
+    height: 276.25px;
+  }
+  .image17Parent,
+  .image18Icon,
+  .l {
+    position: absolute;
+  }
+  .image18Icon {
+    top: 0;
+    left: 95.9px;
+    border-radius: var(--br-md);
+    width: 79px;
+    height: 80px;
+    object-fit: cover;
+  }
+  .l {
+    top: 100.91px;
+    left: 50.8px;
+    text-transform: uppercase;
+  }
+  .worthOfGoodiesContainer {
+    position: absolute;
+    top: 194.04px;
+    left: 0;
+    font-size: var(--font-size-xs);
+    text-transform: capitalize;
+    font-family: var(--font-product-sans);
+    display: inline-block;
+    width: 285.04px;
+    height: 79.96px;
+  }
+  .image18Parent {
+    position: absolute;
+    top: 927px;
+    left: 76.1px;
+    width: 285.04px;
+    height: 274px;
+  }
+  .rectangleGroup,
+  .statsSecIcon1,
+  .statsSecIcon2 {
+    position: absolute;
+    top: 412.5px;
+    left: 88px;
+    width: 357px;
+    height: 5px;
+  }
+  .rectangleGroup,
+  .statsSecIcon2 {
+    top: 853.5px;
+    left: 78px;
+  }
+  .rectangleGroup {
+    top: 1051px;
+    left: 1518px;
+    width: 612px;
+    height: 1271px;
+    text-align: center;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-monument-extended);
+  }
+  .vectorIcon4 {
+    position: absolute;
+    top: 5490.21px;
+    left: 0;
+    width: 1920px;
+    height: 2150.79px;
+    opacity: 0.2;
+  }
+  .footerChild {
+    position: absolute;
+    top: 0;
+    left: 0;
+    border-radius: 206px;
+    background: linear-gradient(98.51deg, #252c17, rgba(22, 22, 22, 0));
+    width: 250px;
+    height: 1920px;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+  }
+  .techfestsliet {
+    position: absolute;
+    top: 0;
+    left: 254.9px;
+  }
+  .groupChild10 {
+    position: absolute;
+    bottom: 3.37px;
+    left: 0;
+    width: 234.05px;
+    height: 28.85px;
+  }
+  .footer,
+  .techfestslietParent {
+    position: absolute;
+    top: -208.87px;
+    left: 732.92px;
+    width: 473.9px;
+    height: 42px;
+  }
+  .footer {
+    top: 7773px;
+    left: 0;
+    width: 250px;
+    height: 1920px;
+    transform: rotate(-90deg);
+    transform-origin: 0 0;
+    font-size: 34.76px;
+    font-family: var(--font-product-sans);
+  }
+  .aboutUsFullView {
+    position: relative;
+    background-color: #090909;
+    width: 100%;
+    height: 7641px;
+    overflow: hidden;
+    text-align: left;
+    font-size: var(--font-size-base);
+    color: var(--white);
+    font-family: var(--font-helvetica-now-display);
+  }
+  

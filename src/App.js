@@ -1,23 +1,28 @@
-import logo from './logo.svg';
+import { Route, Routes } from 'react-router';
 import './App.css';
+// import Footer from './components/Footer/Footer';
+import { Navbar } from './components/Navbar/Navbar';
+import AboutUs from './Pages/About us/AboutUs';
+import Workshop from './Pages/Workshop/Workshop';
+import Domain from './Pages/Domain/Domain';
+import OneDomain from './components/domain/OneDomain';
+import HomePage from './Pages/HomePage/HomePage';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navbar/>
+      <main id='body'>
+      <Routes>
+      <Route path='/' element={<HomePage/>} />
+        <Route path='/workshop' element={<Workshop/>} />
+        <Route path='/domain' element={<Domain/>} />
+        <Route path='/aboutUs' element={<AboutUs/>} />
+        <Route path='/domain/:title' element={<OneDomain/>}/>
+        <Route path='/workshop' element={<Workshop/>}/>
+      </Routes>
+      </main>
+      {/* <Footer/> */}
     </div>
   );
 }
